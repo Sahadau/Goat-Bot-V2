@@ -29,7 +29,11 @@
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "",],
+      "100057399829870",
+      "100084568197142",
+      "100080099546468",
+      "61557519455411"
+    ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
   "nickNameBot": "~CaT♡",
@@ -44,7 +48,7 @@
   "timeZone": "Asia/Dhaka",
   "credentials": {
     "gmailAccount": {
-      "email": "",
+      "email": "esteliaelora57@gmail.com",
       "clientId": "709309722944-gckav5m3ee2mf6b6r9rrm3d9spdnhq6a.apps.googleusercontent.com",
       "clientSecret": "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",
       "refreshToken": "1//048leNJIqUkzzCgYIARAAGAQSNwF-L9IrQ_Y-ANoIdwEcGOlzZ9a3XO4OBGaG4rUV_6HaBuy7-KsyONaGkZtEouYEPf0DBCl7T8k",
@@ -152,4 +156,4 @@
     "notes": "if you enable this feature, only the thread in the whiteListThreadIds list can use the bot",
     "how_it_work": "if you enable both whiteListMode and whiteListModeThread, the system will check if the user is in whiteListIds, then check if the thread is in whiteListThreadIds, if one of the conditions is true, the user can use the bot"
   }
-  }
+}
