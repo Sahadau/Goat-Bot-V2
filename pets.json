@@ -1,0 +1,537 @@
+[
+  {
+    "petID": "1703913007658",
+    "uid": "100057399829870",
+    "petName": "bushiii😘",
+    "gender": "female",
+    "bio": "No bio available.",
+    "energy": 0,
+    "happiness": 71,
+    "hungry": 65,
+    "winCount": 5,
+    "rank": "Bronze",
+    "level": 2,
+    "exp": 304,
+    "coins": 2467,
+    "job": {
+      "salary": 110,
+      "lastWorkDate": 1703934327353,
+      "workCount": 1
+    },
+    "items": {
+      "burger": 4,
+      "pizza": 1
+    },
+    "energyLimit": 80,
+    "hungryLimit": 80,
+    "injury": 45
+  },
+  {
+    "petID": "1704127739111",
+    "uid": "61552811410125",
+    "petName": "Hinata",
+    "gender": "female",
+    "bio": "No bio available.",
+    "energy": -5,
+    "happiness": 60,
+    "hungry": 60,
+    "winCount": 1,
+    "rank": "Bronze",
+    "level": 1,
+    "exp": 84,
+    "coins": 842,
+    "job": {
+      "salary": 66,
+      "lastWorkDate": 1712307721532,
+      "workCount": 1
+    }
+  },
+  {
+    "petID": "1704127740510",
+    "uid": "61553842932247",
+    "petName": "luffy",
+    "gender": "male",
+    "bio": "No bio available.",
+    "energy": 40,
+    "happiness": 60,
+    "hungry": 60,
+    "winCount": 0,
+    "rank": "Bronze",
+    "level": 1,
+    "exp": 111,
+    "coins": 50
+  },
+  {
+    "petID": "1704127761988",
+    "uid": "100048888520975",
+    "petName": "Kurama",
+    "gender": "male",
+    "bio": "No bio available.",
+    "energy": 45,
+    "happiness": 55,
+    "hungry": 55,
+    "winCount": 0,
+    "rank": "Bronze",
+    "level": 1,
+    "exp": 74,
+    "coins": 50
+  },
+  {
+    "petID": "1704128097446",
+    "uid": "100071622217755",
+    "petName": "Alyex Star",
+    "gender": "female",
+    "bio": "No bio available.",
+    "energy": 40,
+    "happiness": 60,
+    "hungry": 60,
+    "winCount": 0,
+    "rank": "Bronze",
+    "level": 1,
+    "exp": 112,
+    "coins": 50
+  },
+  {
+    "petID": "1709022773723",
+    "uid": "100041931226770",
+    "petName": "| Cattiee:)",
+    "gender": "female",
+    "bio": "Am Cute Cattiee😺",
+    "energy": 24,
+    "happiness": 100,
+    "hungry": 0,
+    "winCount": 12,
+    "rank": "Bronze",
+    "level": 4,
+    "exp": 1436,
+    "coins": 6643,
+    "job": {
+      "salary": 87,
+      "lastWorkDate": 1711813273231,
+      "workCount": 10
+    },
+    "injury": 0,
+    "energyLimit": 80,
+    "hungryLimit": 80,
+    "items": {
+      "pizza": 5,
+      "burger": 4
+    },
+    "hide": false,
+    "marriageRequest": null,
+    "marriage": {
+      "status": "married",
+      "partnerID": "100080099546468"
+    }
+  },
+  {
+    "petID": "1709022823613",
+    "uid": "100070169782154",
+    "petName": "max",
+    "gender": "male",
+    "bio": "iam a goodboy😺",
+    "energy": 85,
+    "happiness": 115,
+    "hungry": 180,
+    "winCount": 15,
+    "rank": "Bronze",
+    "level": 5,
+    "exp": 1419,
+    "coins": 10433,
+    "energyLimit": 80,
+    "hungryLimit": 80,
+    "injury": 0,
+    "hide": true,
+    "job": {
+      "salary": 129,
+      "lastWorkDate": 1709297512081,
+      "workCount": 4
+    },
+    "marriageRequest": null,
+    "marriage": {
+      "status": "married",
+      "partnerID": "61551316703154"
+    }
+  },
+  {
+    "petID": "1709022916335",
+    "uid": "100084168760809",
+    "petName": "Meta:)",
+    "gender": "female",
+    "bio": "Am Meta metaai🙂",
+    "energy": 60,
+    "happiness": 67,
+    "hungry": 55,
+    "winCount": 0,
+    "rank": "Bronze",
+    "level": 1,
+    "exp": 160,
+    "coins": 23,
+    "items": {
+      "apple": 1
+    }
+  },
+  {
+    "petID": "1709040942066",
+    "uid": "100088590098255",
+    "petName": "| penguin | rrr",
+    "gender": "Female",
+    "bio": "rrr",
+    "energy": 54,
+    "happiness": 120,
+    "hungry": 5,
+    "winCount": 18,
+    "rank": "Bronze",
+    "level": 6,
+    "exp": 2115,
+    "coins": 6318,
+    "injury": 47,
+    "energyLimit": 80,
+    "hungryLimit": 80,
+    "marriageRequest": null,
+    "marriage": {
+      "status": "married",
+      "partnerID": "100091316371650"
+    },
+    "hide": true,
+    "items": {
+      "apple": 10,
+      "banana": 99
+    },
+    "job": {
+      "salary": 106,
+      "lastWorkDate": 1711270167921,
+      "workCount": 3
+    }
+  },
+  {
+    "petID": "1709040947929",
+    "uid": "100087638424159",
+    "petName": "Female",
+    "gender": "male",
+    "bio": "No bio available.",
+    "energy": 50,
+    "happiness": 50,
+    "hungry": 50,
+    "winCount": 0,
+    "rank": "Bronze",
+    "level": 1,
+    "exp": 0,
+    "coins": 50
+  },
+  {
+    "petID": "1709041153014",
+    "uid": "100071167429460",
+    "petName": "princess",
+    "gender": "female",
+    "bio": "rrr",
+    "energy": 0,
+    "happiness": 50,
+    "hungry": 50,
+    "winCount": 2,
+    "rank": "Bronze",
+    "level": 1,
+    "exp": 0,
+    "coins": 1077,
+    "items": {
+      "banana": 2
+    }
+  },
+  {
+    "petID": "1709042177441",
+    "uid": "100091316371650",
+    "petName": "meaw",
+    "gender": "male",
+    "bio": "rrr",
+    "energy": 24,
+    "happiness": 88,
+    "hungry": 55,
+    "winCount": 2,
+    "rank": "Bronze",
+    "level": 2,
+    "exp": 139,
+    "coins": 1230,
+    "marriageRequest": null,
+    "marriage": {
+      "status": "married",
+      "partnerID": "100088590098255"
+    },
+    "hide": true,
+    "energyLimit": 80,
+    "hungryLimit": 80
+  },
+  {
+    "petID": "1709235104579",
+    "uid": "100089234121641",
+    "petName": "Çlaud",
+    "gender": "male",
+    "bio": "No bio available.",
+    "energy": 0,
+    "happiness": 59,
+    "hungry": 50,
+    "winCount": 0,
+    "rank": "Bronze",
+    "level": 1,
+    "exp": 100,
+    "coins": 50
+  },
+  {
+    "petID": "1709241319107",
+    "uid": "100090764310659",
+    "petName": "zink",
+    "gender": "male",
+    "bio": "No bio available.",
+    "energy": 26,
+    "happiness": 100,
+    "hungry": 125,
+    "winCount": 0,
+    "rank": "Bronze",
+    "level": 2,
+    "exp": 692,
+    "coins": 0,
+    "job": {
+      "salary": 99,
+      "lastWorkDate": 1709241385975,
+      "workCount": 1
+    },
+    "energyLimit": 80,
+    "hungryLimit": 80
+  },
+  {
+    "petID": "1709266147163",
+    "uid": "61551316703154",
+    "petName": "Isabella",
+    "gender": "female",
+    "bio": "rrr",
+    "energy": 81,
+    "happiness": 100,
+    "hungry": 70,
+    "winCount": 3,
+    "rank": "Bronze",
+    "level": 2,
+    "exp": 501,
+    "coins": 1835,
+    "injury": 20,
+    "energyLimit": 80,
+    "hungryLimit": 80,
+    "job": {
+      "salary": 77,
+      "lastWorkDate": 1709266779206,
+      "workCount": 1
+    },
+    "marriageRequest": null,
+    "marriage": {
+      "status": "married",
+      "partnerID": "100070169782154"
+    },
+    "hide": true
+  },
+  {
+    "petID": "1709352916772",
+    "uid": "100091748808702",
+    "petName": "zibuya",
+    "gender": "male",
+    "bio": "rrr",
+    "energy": 75,
+    "happiness": 61,
+    "hungry": 55,
+    "winCount": 0,
+    "rank": "Bronze",
+    "level": 1,
+    "exp": 136,
+    "coins": 50
+  },
+  {
+    "petID": "1709527684055",
+    "uid": "100013026633975",
+    "petName": "nafi",
+    "gender": "male",
+    "bio": "cat",
+    "energy": 50,
+    "happiness": 50,
+    "hungry": 50,
+    "winCount": 0,
+    "rank": "Bronze",
+    "level": 1,
+    "exp": 0,
+    "coins": 50
+  },
+  {
+    "petID": "1709648226176",
+    "uid": "100028138721922",
+    "petName": "Agus |rorrr",
+    "gender": "male",
+    "bio": "No bio available.",
+    "energy": 65,
+    "happiness": 84,
+    "hungry": 70,
+    "winCount": 0,
+    "rank": "Bronze",
+    "level": 1,
+    "exp": 394,
+    "coins": 50
+  },
+  {
+    "petID": "1709910862370",
+    "uid": "100022958820287",
+    "petName": "Arthur",
+    "gender": "male",
+    "bio": "our cute baby",
+    "energy": 84,
+    "happiness": 76,
+    "hungry": 55,
+    "winCount": 0,
+    "rank": "Bronze",
+    "level": 1,
+    "exp": 247,
+    "coins": 183,
+    "job": {
+      "salary": 133,
+      "lastWorkDate": 1710165767970,
+      "workCount": 1
+    }
+  },
+  {
+    "petID": "1709914716329",
+    "uid": "100069577136837",
+    "petName": "sahadat",
+    "gender": "male",
+    "bio": "I don't know",
+    "energy": 30,
+    "happiness": 50,
+    "hungry": 20,
+    "winCount": 4,
+    "rank": "Bronze",
+    "level": 1,
+    "exp": 395,
+    "coins": 2922,
+    "job": {
+      "salary": 81,
+      "lastWorkDate": 1711631206853,
+      "workCount": 2
+    },
+    "items": {
+      "pizza": 2
+    }
+  },
+  {
+    "petID": "1711268180011",
+    "uid": "100062127322485",
+    "petName": "Burly",
+    "gender": "male",
+    "bio": "togo nani r",
+    "energy": 100,
+    "happiness": 100,
+    "hungry": 0,
+    "winCount": 14,
+    "rank": "Bronze",
+    "level": 6,
+    "exp": 2036,
+    "coins": 3918.5,
+    "items": {
+      "apple": 8,
+      "bread": 16
+    },
+    "energyLimit": 80,
+    "hungryLimit": 80,
+    "injury": 96,
+    "bank": {
+      "statement": 3000,
+      "balance": 3000,
+      "loan": 0,
+      "lastLoanDate": 0
+    },
+    "job": {
+      "salary": 109,
+      "lastWorkDate": 1711631175407,
+      "workCount": 3
+    },
+    "marriageRequest": null,
+    "hide": true
+  },
+  {
+    "petID": "1711271833049",
+    "uid": "61556746881463",
+    "petName": "bad boy",
+    "gender": "male",
+    "bio": "ehhh",
+    "energy": 45,
+    "happiness": 55,
+    "hungry": 55,
+    "winCount": 0,
+    "rank": "Bronze",
+    "level": 1,
+    "exp": 70,
+    "coins": 124,
+    "hide": true,
+    "job": {
+      "salary": 74,
+      "lastWorkDate": 1711632981065,
+      "workCount": 1
+    }
+  },
+  {
+    "petID": "1711612389623",
+    "uid": "61555393416824",
+    "petName": "| hospital | pet bio",
+    "gender": "female",
+    "bio": "pet bio",
+    "energy": 50,
+    "happiness": 50,
+    "hungry": 50,
+    "winCount": 0,
+    "rank": "Bronze",
+    "level": 1,
+    "exp": 0,
+    "coins": 50
+  },
+  {
+    "petID": "1711780232730",
+    "uid": "100080099546468",
+    "petName": "| Rimii",
+    "gender": "Male",
+    "bio": "cutest Rimiiii",
+    "energy": 50,
+    "happiness": 50,
+    "hungry": 50,
+    "winCount": 0,
+    "rank": "Bronze",
+    "level": 1,
+    "exp": 0,
+    "coins": 161,
+    "hide": true,
+    "marriageRequest": null,
+    "marriage": {
+      "status": "married",
+      "partnerID": "100041931226770"
+    },
+    "job": {
+      "salary": 111,
+      "lastWorkDate": 1712306149786,
+      "workCount": 1
+    }
+  },
+  {
+    "petID": "1712307615812",
+    "uid": "100066460973139",
+    "petName": "Tom",
+    "gender": "male",
+    "bio": "Puck you",
+    "energy": 2,
+    "happiness": 50,
+    "hungry": 50,
+    "winCount": 2,
+    "rank": "Bronze",
+    "level": 2,
+    "exp": 200,
+    "coins": 905,
+    "job": {
+      "salary": 66,
+      "lastWorkDate": 1712307749757,
+      "workCount": 1
+    },
+    "injury": 48,
+    "energyLimit": 80,
+    "hungryLimit": 80
+  }
+]
